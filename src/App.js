@@ -17,17 +17,17 @@ function App() {
     <Router>
       <div>
           <ul>
-            <li className="active" ><Link className='link' to='/' > LOGO </Link> </li>
-            <li><Link className='link' to='/stage' > Stage1 </Link></li>
-            <li><Link className='link' to='/stage' > Stage2</Link></li>
-            <li><Link className='link' to='stage' > Stage3 </Link></li>
+            <li className="active" ><Link className='link' to='/takshila-e-commerce' > LOGO </Link> </li>
+            <li><Link className='link' to='/takshila-e-commerce/stage' > Stage1 </Link></li>
+            <li><Link className='link' to='/takshila-e-commerce/stage' > Stage2</Link></li>
+            <li><Link className='link' to='/takshila-e-commerce/stage' > Stage3 </Link></li>
           </ul>
 
       </div>
 
       <Switch>
-        <Route exact path='/' component={Pre}></Route>
-        <Route path='/stage' component={Info} ></Route>
+        <Route exact path='/takshila-e-commerce' component={Pre}></Route>
+        <Route path='/takshila-e-commerce/stage' component={Info} ></Route>
       </Switch>
 
     </Router>

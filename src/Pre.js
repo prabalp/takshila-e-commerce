@@ -23,7 +23,7 @@ function Pre() {
       return k6.map((val)=>{
         return <div className="space" onClick={()=>{
           setst(2)
-          history.push('/stage')
+          history.push('/takshila-e-commerce/stage')
         }} >
           <Card info = {val}
         />
@@ -34,7 +34,7 @@ function Pre() {
       return six12.map((val)=>{
         return <div className="space" onClick={()=>{
           setst(2)
-          history.push('/stage')
+          history.push('/takshila-e-commerce/stage')
         }} >
           <Card info = {val} 
         />
@@ -44,7 +44,7 @@ function Pre() {
       return post12.map((val)=>{
         return <div className="space" onClick={()=>{
           setst(2)
-          history.push('/stage')
+          history.push('/takshila-e-commerce/stage')
         }} >
           <Card info = {val} 
         />
