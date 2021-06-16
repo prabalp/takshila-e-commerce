@@ -1,0 +1,52 @@
+.InfoParent{
+    background-color: #eeeff3;
+}
+
+.mid{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    
+
+}
+
+/* .bod{
+    border: 2px solid black;
+} */
+
+
+.space{
+    margin: auto;
+    padding: 20px;
+}
+.space1{
+    margin: 20px;
+    padding: 20px;
+}
+
+
+.Register{
+    height: 60vh;
+    background-color:#eeeff3;
+}
+
+.subscription{
+    flex-direction: column;
+    flex-wrap: wrap;
+    margin: 50px;
+}
+
+.benefit{
+    flex-wrap: wrap;
+
+}
+
+.courseInfo{
+    flex-direction: column;
+    margin: 50px;
+    padding: 20px;
+}
+
+.benif{
+    min-width: 200px;
+}

@@ -1,0 +1,33 @@
+.Box{
+    display: flex;
+    flex-direction: column;
+    max-width: 500px;
+    background-color:#e1e3ea ;
+    padding: 20px;
+    border-radius: 10px;
+    
+}
+.txtStyl0{
+ font-size: 15mm;
+ font-weight: bold;
+ font-family: 'Courier New', Courier, monospace;    
+}
+
+.btns{
+    display: flex;
+    align-items: center;
+}
+
+.btn{
+    font-size: 8mm;
+    border: 1px solid #99ddff;
+    border-radius: 10px;
+    max-width: fit-content;
+    padding: 10px;
+    margin: 10px;
+}
+
+.btn:hover{
+    background-color:#0076fa ;
+    cursor: pointer;
+}
