@@ -1,21 +1,22 @@
 {
   "files": {
-    "main.css": "/takshila-e-commerce/static/css/main.4c0004bd.chunk.css",
-    "main.js": "/takshila-e-commerce/static/js/main.58db85ac.chunk.js",
-    "main.js.map": "/takshila-e-commerce/static/js/main.58db85ac.chunk.js.map",
+    "main.css": "/takshila-e-commerce/static/css/main.e16b68bb.chunk.css",
+    "main.js": "/takshila-e-commerce/static/js/main.877d8fb7.chunk.js",
+    "main.js.map": "/takshila-e-commerce/static/js/main.877d8fb7.chunk.js.map",
     "runtime-main.js": "/takshila-e-commerce/static/js/runtime-main.8d1bb4fa.js",
     "runtime-main.js.map": "/takshila-e-commerce/static/js/runtime-main.8d1bb4fa.js.map",
-    "static/js/2.72ca6daa.chunk.js": "/takshila-e-commerce/static/js/2.72ca6daa.chunk.js",
-    "static/js/2.72ca6daa.chunk.js.map": "/takshila-e-commerce/static/js/2.72ca6daa.chunk.js.map",
+    "static/js/2.5b6b8f03.chunk.js": "/takshila-e-commerce/static/js/2.5b6b8f03.chunk.js",
+    "static/js/2.5b6b8f03.chunk.js.map": "/takshila-e-commerce/static/js/2.5b6b8f03.chunk.js.map",
     "index.html": "/takshila-e-commerce/index.html",
-    "static/css/main.4c0004bd.chunk.css.map": "/takshila-e-commerce/static/css/main.4c0004bd.chunk.css.map",
-    "static/js/2.72ca6daa.chunk.js.LICENSE.txt": "/takshila-e-commerce/static/js/2.72ca6daa.chunk.js.LICENSE.txt",
-    "static/media/img1.f4fe38db.jpg": "/takshila-e-commerce/static/media/img1.f4fe38db.jpg"
+    "static/css/main.e16b68bb.chunk.css.map": "/takshila-e-commerce/static/css/main.e16b68bb.chunk.css.map",
+    "static/js/2.5b6b8f03.chunk.js.LICENSE.txt": "/takshila-e-commerce/static/js/2.5b6b8f03.chunk.js.LICENSE.txt",
+    "static/media/img1.f4fe38db.jpg": "/takshila-e-commerce/static/media/img1.f4fe38db.jpg",
+    "static/media/img1.fc23dff0.svg": "/takshila-e-commerce/static/media/img1.fc23dff0.svg"
   },
   "entrypoints": [
     "static/js/runtime-main.8d1bb4fa.js",
-    "static/js/2.72ca6daa.chunk.js",
-    "static/css/main.4c0004bd.chunk.css",
-    "static/js/main.58db85ac.chunk.js"
+    "static/js/2.5b6b8f03.chunk.js",
+    "static/css/main.e16b68bb.chunk.css",
+    "static/js/main.877d8fb7.chunk.js"
   ]
 }
