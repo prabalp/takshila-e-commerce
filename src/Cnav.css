@@ -1,0 +1,17 @@
+.mid{
+    display: flex;
+    align-items: center;
+    justify-content: space-around;
+    padding: 20px;
+}
+
+.space{
+    margin: 15px;
+    padding: 15px;
+}
+
+.card{
+    background: linear-gradient(to bottom, #d2d5df 0%, #eeeff3 100%);
+    border: 10px;
+    min-height: 350px;
+}

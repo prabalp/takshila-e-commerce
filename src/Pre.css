@@ -1,9 +1,18 @@
-.Pre {
+.Pre{
+  background-color: #eeeff3;
+}
+
+
+
+
+
+.Pre_box {
   display: flex;
   flex-wrap: wrap;
   align-items: center;
   justify-content: center;
-  height: 100vh;
+  height: auto;
+  padding: 50px;
 }
 
 .space {

@@ -17,10 +17,10 @@ function App() {
     <Router>
       <div>
           <ul>
-            <li className="active" ><Link className='link' to='/takshila-e-commerce' > LOGO </Link> </li>
-            <li><Link className='link' to='/takshila-e-commerce/stage' > Stage1 </Link></li>
-            <li><Link className='link' to='/takshila-e-commerce/stage' > Stage2</Link></li>
-            <li><Link className='link' to='/takshila-e-commerce/stage' > Stage3 </Link></li>
+            <li className="active"  ><Link className='link' to='/takshila-e-commerce' > LOGO </Link> </li>
+            <li style={{ flex:1 }} ></li>
+            <li><Link className='link' to='/takshila-e-commerce/stage' > Search</Link></li>
+            <li><Link className='link' to='/takshila-e-commerce/stage' > Login </Link></li>
           </ul>
 
       </div>

@@ -65,8 +65,6 @@ function Info() {
                 <div className='benif mid bod space1'> <h4>Class 4...blas blah bhal bhah blah blah</h4> </div>
             </div>
         </div>
-
-        
         </div>
        
     )

@@ -2,7 +2,8 @@ import React from 'react'
 import { useState } from 'react';
 import './Pre.css';
 import Card from './Card';
-import Info from './Info/Info.js'
+// import Info from './Info/Info.js'
+import Cnav from './Cnav'
 import { useHistory } from 'react-router-dom';
 
 function Pre() {
@@ -72,13 +73,17 @@ function Pre() {
 
   }
     return (
-        <>
-        <div className='Pre'>
+        <div className="Pre" >
+        <div className="Pre_top">
+        <Cnav/>
+
+        </div>
+        <div className='Pre_box'>
         { st === 0 ? <>{clk1()}</>:(st === 1?<>{clk2()}</>:<></>) }
         {console.log(st)}
             
         </div>
-        </>
+        </div>
     )
 }
 
